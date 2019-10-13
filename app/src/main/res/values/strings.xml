@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Android Pizza Order</string>
+    <string name="app_name">Pizza Order</string>
+    <string name="round_pizza">Round Pizza</string>
+    <string name="round_button">Round</string>
+    <string name="square_button">Square</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="mushrooms">Mushrooms</string>
+    <string name="veggies">Veggies</string>
+    <string name="anchovies">Anchovies</string>
+    <string name="no_cheese">No Cheese</string>
+    <string name="cheese">Cheese</string>
+    <string name="double_cheese">2x Cheese</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="place_order">Place Order</string>
 </resources>

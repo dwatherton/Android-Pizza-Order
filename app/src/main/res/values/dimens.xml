@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="space_min" type="dimen">8dp</item>
+    <item name="space_mid" type="dimen">16dp</item>
+    <item name="space_big" type="dimen">32dp</item>
+</resources>
