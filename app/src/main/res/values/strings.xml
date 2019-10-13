@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Android Pizza Order</string>
+    <string name="app_name">Pizza Order</string>
+    <string name="round_pizza">Round Pizza</string>
+    <string name="square_pizza">Square Pizza</string>
+    <string name="not_selected_pizza">Not Selected Pizza</string>
+    <string name="round_button">Round</string>
+    <string name="square_button">Square</string>
 </resources>
