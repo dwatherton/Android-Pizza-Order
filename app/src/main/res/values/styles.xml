@@ -8,8 +8,4 @@
         <item name="colorAccent">@color/secondaryColor</item>
     </style>
 
-    <style name="AppTheme.ButtonTextColor" parent="Widget.MaterialComponents.Button.OutlinedButton">
-        <item name="android:color">@color/button_text_color</item>
-    </style>
-
 </resources>
