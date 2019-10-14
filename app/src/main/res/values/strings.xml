@@ -11,5 +11,7 @@
     <string name="no_cheese">No Cheese</string>
     <string name="cheese">Cheese</string>
     <string name="double_cheese">2x Cheese</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
     <string name="place_order">Place Order</string>
 </resources>

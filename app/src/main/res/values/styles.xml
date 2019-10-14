@@ -6,6 +6,12 @@
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryDark">@color/primaryDarkColor</item>
         <item name="colorAccent">@color/secondaryColor</item>
+        <item name="chipStyle">@style/AppTheme.Chip</item>
+    </style>
+
+    <style name="AppTheme.Chip" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@color/primaryColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
     </style>
 
 </resources>
